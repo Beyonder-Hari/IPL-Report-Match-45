@@ -13,11 +13,7 @@ h2 {
 position: relative;
 left: 250px;
 };
- header {
-  height: 100%;
-      color: red;
-      background: url("C:/Shri Hari B/Coding/IPL.jpg");
-  }
+
 
 </style>
 </head>
