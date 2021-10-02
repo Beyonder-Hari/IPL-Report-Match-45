@@ -39,6 +39,7 @@ PBKS - 20%</h3>
 <p> We are here for Match 45 at the 2021 season of IPL! Match 45 is played at UAE Dubai International stadium! A dominating KKR go against a chaotic PBKS. This will be a crucial win for the Punjab Kings if they win. Punjab Kings' captain KL Rahul vs KKR captain Eoin Morgan. This will be the match that everyone waited for! Russel versus Gayle! Shami versus Sunil Narine! Arshdeep versus Varun and many more experienced and young players.
 In the previous match, Csk won against Srh with a match winning six for MS Dhoni.The Super Kings find their place in the playoffs! Will it be KKR who go to the playoffs or will it be PBKS who get to win their maiden IPL. Stay Tuned to find out!</p>
  <h2> Points Table and others </h2>
+  <a href="https://www.iplt20.com/points-table/men/2021">Points Table</a>
  <h3> Orange and Purple caps </h3>
  <p> Orange Cap - Shikar Dhawan (DC) with 454 runs</p>
  <p> Purple Cap - Harshal Patel (RCB) with 26 wickets and 1 hatrick</p>
